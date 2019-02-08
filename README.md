@@ -1,5 +1,9 @@
 # Exemplo Express+MongoDB
 
+## Executar
+* `npm install`
+* `npm run dev`
+
 ## MongoDB
 
 ### Docker
